@@ -1916,41 +1916,10 @@ body {
 .cid-qSh1blC3Lr .popup-btn:hover .mbr-section-btn {
   opacity: 1;
 }
-.cid-qSgWfzjSP7 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
-.cid-qSgWt6mWAQ .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-qSgWt6mWAQ .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-qSgWt6mWAQ .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-qSgWt6mWAQ .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-qSgWt6mWAQ .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
 .cid-qShrEVBzOq {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/winter-night-in-downtown-minneapolis-minnesota-4k-euotpch-e-f0000-2000x1125.png");
 }
 .cid-qShrEVBzOq .mbr-section-subtitle {
   color: #767676;
@@ -2039,6 +2008,46 @@ body {
 }
 .cid-qShrEVBzOq P {
   text-align: left;
+}
+.cid-qShrEVBzOq .mbr-section-title {
+  color: #ffffff;
+}
+.cid-qSgWfzjSP7 {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qSgWfzjSP7 H2 {
+  color: #232323;
+}
+.cid-qSgWfzjSP7 .mbr-section-subtitle {
+  color: #c1c1c1;
+}
+.cid-qSgWt6mWAQ .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-qSgWt6mWAQ .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-qSgWt6mWAQ .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-qSgWt6mWAQ .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-qSgWt6mWAQ .google-map[data-state="loading"] [data-state-details] {
+  display: none;
 }
 .cid-qSgSw3wlXU {
   padding-top: 60px;
